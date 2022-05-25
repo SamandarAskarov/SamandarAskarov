@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### I'm Samandar Askarov.
-- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgallery.yopriceville.com%2FNational-Flags%2FUzbekistan_Large_Flag&psig=AOvVaw2XyDrUeWE25jfaE9_-nEdV&ust=1653592434960000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiphoGu-_cCFQAAAAAdAAAAABAD" width="20px">
 - 👨‍💻 Front End Developer.
 - 📍 Tashkent, Uzbekistan.
 - 📅 03.09.2003.
