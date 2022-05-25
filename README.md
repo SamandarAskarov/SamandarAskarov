@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Samandar Askarov.
-- 🇺🇿 🇦🇫
+- <img src=""
 - 👨‍💻 Front End Developer.
 - 📍 Tashkent, Uzbekistan.
 - 📅 03.09.2003.
