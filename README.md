@@ -1,9 +1,13 @@
 ### Hi there 👋
 ### I'm Samandar Askarov.
+- 🇺🇿 🇦🇫
 - 👨‍💻 Front End Developer.
 - 📍 Tashkent, Uzbekistan.
 - 📅 03.09.2003.
 - 🏛 Ajou University in Tashkent(AUT).
+- 📞 +998914533974.
+### I use languages like:
+
 
 <!--
 **SamandarAskarov/SamandarAskarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
