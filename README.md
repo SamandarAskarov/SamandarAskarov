@@ -10,7 +10,7 @@
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-svg-vector.svg" width="45px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="40px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="40px"></code>
-<code><img src="https://static.vecteezy.com/system/resources/previews/027/127/560/original/javascript-logo-javascript-icon-transparent-free-png.png" width="45px"></code>
+<code><img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" width="45px"></code>
 
 ### My social networks and messengers:
 <a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq26rNKacdcPJz0J8RVcQDsXmVcnjpZOEwhqK8_7BnkQ&s" width="40px"></a>
