@@ -13,9 +13,9 @@
 <code><img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" width="65px"></code>
 
 ### My social networks and messengers:
-<a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq26rNKacdcPJz0J8RVcQDsXmVcnjpZOEwhqK8_7BnkQ&s" width="40px"></a>
-<a><img src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-transparent-PNG.png" width="40px"></a>
-<a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwnMgeZf7NUIWFagwWfRkrpR_7MAxQDYzcXJvVcqhow&s" width="40px"></a>
+<a href=""https://t.me/saman_beliy1"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq26rNKacdcPJz0J8RVcQDsXmVcnjpZOEwhqK8_7BnkQ&s" width="40px"></a>
+<a href="https://instagram.com/s.a.a__13"><img src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-transparent-PNG.png" width="40px"></a>
+<a href="https://www.facebook.com/samandar.askarov.3"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwnMgeZf7NUIWFagwWfRkrpR_7MAxQDYzcXJvVcqhow&s" width="40px"></a>
 
 
 
